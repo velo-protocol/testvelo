@@ -1,0 +1,20 @@
+{
+  "name": "velo_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "keythereum": "^1.0.4",
+    "web3": "^1.2.8",
+    "@parity/api": "^2.1.20",
+    "prompt-password": "^1.2.0",
+    "prompt-password-strength": "^1.1.0"
+  }
+}
